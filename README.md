@@ -8,3 +8,4 @@ This repository contains my solutions for Leetcode problems.
 | ----- | ------- | -------- |
 | 1     | [Two Sums](https://leetcode.com/problems/two-sum/) | [Solution](https://github.com/HTG-YT/leetcode-rust/blob/main/Problems/1-TwoSums/solution.rs) |
 | 2     | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Solution](https://github.com/HTG-YT/leetcode-rust/blob/main/Problems/2-AddTwoNumbers/solution.rs) |
+| 3     | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Solution](https://github.com/HTG-YT/leetcode-rust/blob/main/Problems/3-LongestSubtringWithoutRepeatingCharacters/solution.rs) |
