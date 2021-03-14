@@ -14,3 +14,4 @@ This repository contains my solutions for Leetcode problems.
 | 6     | [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/) | *Pending* |
 | 7     | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [Solution](https://github.com/HTG-YT/leetcode-rust/blob/main/Problems/7-ReverseInteger/solution.rs) |
 | 8     | [String to Integer](https://leetcode.com/problems/string-to-integer-atoi/) | *Pending* |
+| 9     | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Solution](https://github.com/HTG-YT/leetcode-rust/blob/main/Problems/7-ReverseInteger/solution.rs) |
