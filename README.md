@@ -13,3 +13,4 @@ This repository contains my solutions for Leetcode problems.
 | 5     | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | *Pending* |
 | 6     | [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/) | *Pending* |
 | 7     | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [Solution](https://github.com/HTG-YT/leetcode-rust/blob/main/Problems/7-ReverseInteger/solution.rs) |
+| 8     | [String to Integer](https://leetcode.com/problems/string-to-integer-atoi/) | *Pending* |
